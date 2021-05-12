@@ -26,6 +26,10 @@ Start the dev server
 npm run dev
 ```
 
+### Notes
+
+There may be a few bugs
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
